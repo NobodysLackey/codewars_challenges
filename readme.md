@@ -126,7 +126,18 @@ Complete the function that takes an integer n and returns a list/array of length
 
 #### SOLUTION:
 ```javascript
-solution here
+function sumOfN(n) {
+  let sumArr = [];
+  sumArr[0] = 0;
+  for (let i = 1; i < Math.abs(n)+1; i++) {
+    if(n > 0) {
+      sumArr[i] = sumArr[i-1]+i;
+    } else {
+      sumArr[i] = sumArr[i-1]-i;
+    }
+  }
+  return sumArr
+};
 ```
 
 </details></li>
