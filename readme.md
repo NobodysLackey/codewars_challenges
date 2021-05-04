@@ -11,10 +11,12 @@
 ##### This is a repo for storing all [codewars](https://www.codewars.com/) challenges used over the course of General Assembly's Software Engineering Immersive.
 ***
 
-## 8kyu
-***
+<details><summary><strong>8kyu</strong></summary>
 
-#### NAME: Holiday VI - Shark Pontoon
+<ul type="none">
+
+<li><details><summary><strong>Holiday VI - Shark Pontoon</strong></summary>
+
 #### [LINK](https://www.codewars.com/kata/57e921d8b36340f1fd000059/train/javascript)
 #### PROMPT: 
 Your friend invites you out to a cool floating pontoon around 1km off the beach. Among other things, the pontoon has a huge slide that drops you out right into the ocean, a small way from a set of stairs used to climb out.
@@ -43,13 +45,21 @@ If you make it, return "Alive!", if not, return "Shark Bait!".
 ```javascript
 solution here
 ```
-***
 
-## 7kyu
-***
+</details></li>
 
-#### NAME: Exes and Ohs
+</details></ul>
+
+____
+
+<details><summary><strong>7kyu</strong></summary>
+
+<ul type="none">
+
+<li><details><summary><strong>Exes and Ohs</strong></summary>
+
 #### [LINK](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript)
+
 #### PROMPT: 
 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
 
@@ -66,9 +76,11 @@ XO("zzoo") --> false
 ```javascript
 solution here
 ```
-***
 
-#### NAME: Merge Two Arrays
+</details></li>
+
+<li><details><summary><strong>Merge Two Arrays</strong></summary>
+
 #### [LINK](https://www.codewars.com/kata/583af10620dda4da270000c5/train/javascript)
 #### PROMPT: 
 Write a function that combines two arrays by alternatingly taking elements from each array in turn.
@@ -87,9 +99,11 @@ One array will be of string characters (in lower case, a-z), a second of integer
 ```javascript
 solution here
 ```
-***
 
-#### NAME: Basic Sequence Practice
+</details></li>
+
+<li><details><summary><strong>Basic Sequence Practice</strong></summary>
+
 #### [LINK](https://www.codewars.com/kata/5436f26c4e3d6c40e5000282/train/javascript)
 #### PROMPT: 
 A sequence or a series, in mathematics, is a string of objects, like numbers, that follow a particular pattern. The individual elements in a sequence are called terms. A simple example is 3, 6, 9, 12, 15, 18, 21, ..., where the pattern is: "add 3 to the previous term".
@@ -114,9 +128,11 @@ Complete the function that takes an integer n and returns a list/array of length
 ```javascript
 solution here
 ```
-***
 
-#### NAME: Fun with ES6 Classes #3 - Cuboids, Cubes, and Getters
+</details></li>
+
+<li><details><summary><strong>Fun with ES6 Classes #3 - Cuboids, Cubes, and Getters</strong></summary>
+
 #### [LINK](https://www.codewars.com/kata/56fbdda707cff41b68000de2/train/javascript)
 #### PROMPT: 
 Define the following classes.
@@ -135,9 +151,11 @@ Hint: Make a call to super, passing in the correct arguments, to make life easie
 ```javascript
 solution here
 ```
-***
 
-#### NAME: Calculator: Coin Combination
+</details></li>
+
+<li><details><summary><strong>Calculator: Coin Combination</strong></summary>
+
 #### [LINK](https://www.codewars.com/kata/564d0490e96393fc5c000029/train/javascript)
 #### PROMPT: 
 The function takes cents value (int) and needs to return the minimum number of coins combination of the same value.
@@ -157,9 +175,11 @@ coinCombo(6) --> [1, 1, 0, 0]
 ```javascript
 solution here
 ```
-***
 
-#### NAME: 
+</details></li>
+
+<li><details><summary><strong>NAME</strong></summary>
+
 #### [LINK]()
 #### PROMPT: 
 
@@ -173,9 +193,19 @@ examples here
 ```javascript
 solution here
 ```
-***
 
-#### NAME: 
+</details></li>
+
+</details></ul>
+
+____
+
+<details><summary><strong>6kyu</strong></summary>
+
+<ul type="none">
+
+<li><details><summary><strong>NAME</strong></summary>
+
 #### [LINK]()
 #### PROMPT: 
 
@@ -189,9 +219,19 @@ examples here
 ```javascript
 solution here
 ```
-***
 
-#### NAME: 
+</details></li>
+
+</details></ul>
+
+____
+
+<details><summary><strong>5kyu</strong></summary>
+
+<ul type="none">
+
+<li><details><summary><strong>NAME</strong></summary>
+
 #### [LINK]()
 #### PROMPT: 
 
@@ -205,16 +245,61 @@ examples here
 ```javascript
 solution here
 ```
-***
 
-## 6kyu
-***
+</details></li>
 
-## 5kyu
-***
+</details></ul>
 
-## 4kyu
-***
+____
 
-## 3kyu
-***
+<details><summary><strong>4kyu</strong></summary>
+
+<ul type="none">
+
+<li><details><summary><strong>NAME</strong></summary>
+
+#### [LINK]()
+#### PROMPT: 
+
+
+#### EXAMPLES:
+```javascript
+examples here
+```
+
+#### SOLUTION:
+```javascript
+solution here
+```
+
+</details></li>
+
+</details></ul>
+
+____
+
+<details><summary><strong>3kyu</strong></summary>
+
+<ul type="none">
+
+<li><details><summary><strong>NAME</strong></summary>
+
+#### [LINK]()
+#### PROMPT: 
+
+
+#### EXAMPLES:
+```javascript
+examples here
+```
+
+#### SOLUTION:
+```javascript
+solution here
+```
+
+</details></li>
+
+</details></ul>
+
+____
