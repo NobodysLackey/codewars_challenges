@@ -137,7 +137,7 @@ function sumOfN(n) {
     }
   }
   return sumArr
-};
+}
 ```
 
 </details></li>
