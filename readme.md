@@ -1,4 +1,4 @@
-# Codewars Challenges
+![Codewars](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkhsmustangmonthly.com%2Fwp-content%2Fuploads%2F2020%2F05%2FInkBanner450x1000.jpg&f=1&nofb=1)
 
 ## Date: 5/4/2021
 
