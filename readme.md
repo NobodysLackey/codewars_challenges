@@ -43,7 +43,21 @@ If you make it, return "Alive!", if not, return "Shark Bait!".
 
 #### SOLUTION:
 ```javascript
-solution here
+function shark(pontoonDistance, sharkDistance, youSpeed, sharkSpeed, dolphin){
+
+  let sharkTime = sharkDistance/sharkSpeed;
+  let youTime = pontoonDistance/youSpeed;
+  
+  if (dolphin === true){
+    sharkTime = sharkTime * 2;
+  }
+
+  if (youTime < sharkTime){
+    return "Alive!";
+  } else {
+    return "Shark Bait!";
+  }
+}
 ```
 
 </details></li>
