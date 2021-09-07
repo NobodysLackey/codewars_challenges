@@ -69,6 +69,82 @@ ____
 <details><summary><strong>7kyu</strong></summary>
 
 <ul type="none">
+  
+<li><details><summary><strong>Waiting Room</strong></summary>
+
+#### [LINK](https://www.codewars.com/kata/542f0c36d002f8cd8a0005e5/train/javascript)
+
+#### PROMPT: 
+There’s a waiting room with N chairs set in single row. Chairs are consecutively numbered from 1 to N. First is closest to the entrance (which is exit as well).
+  
+For some reason people choose a chair in the following way
+- Find a place as far from other people as possible
+- Find a place as close to exit as possible
+  
+So it looks like this for 10 chairs and 10 patients:
+
+Chairs	1	2	3	4	5	6	7	8	9	10
+Patients	1	7	5	8	3	9	4	6	10	2
+  
+All chairs must be occupied before the first person will be served.
+  
+Your task is to find last patient’s chair’s number.
+
+##### SOLUTION:
+```javascript
+solution here
+```
+
+</details></li>
+  
+<li><details><summary><strong>Point in a Unit Circle</strong></summary>
+
+#### [LINK](https://www.codewars.com/kata/58da7ae9b340a2440500009c/train/javascript)
+
+#### PROMPT: 
+Write a function that returns true if a given point (x,y) is inside of a unit circle (that is, a “normal” circle with a radius of one) centered at the origin (0,0) and returns false if the point is outside.
+  
+**Input**
+x: The first coordinate of the given point.
+y: The second coordinate of the given point.
+  
+**Notes**
+The region bounded by the circle is considered to be an open disk, so points on the boundary of the circle should return false.
+We are using the euclidean metric.
+
+##### SOLUTION:
+```javascript
+solution here
+```
+
+</details></li>
+  
+<li><details><summary><strong>Check for Prime Numbers</strong></summary>
+
+#### [LINK](https://www.codewars.com/kata/53daa9e5af55c184db00025f/train/javascript)
+
+#### PROMPT: 
+In this kata you will create a function to check a non-negative input to see if it is a prime number.
+
+The function will take in a number and will return True if it is a prime number and False if it is not.
+
+A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+
+#### EXAMPLES:
+```javascript
+0 --> false
+1 --> false
+2 --> true
+11 --> true
+12 --> false
+```
+
+##### SOLUTION:
+```javascript
+solution here
+```
+
+</details></li>
 
 <li><details><summary><strong>Exes and Ohs</strong></summary>
 
